@@ -1,0 +1,4 @@
+#Sun Dec 18 10:38:24 BDT 2022
+base.0=/opt/rokon_project/todo_with_hive/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
